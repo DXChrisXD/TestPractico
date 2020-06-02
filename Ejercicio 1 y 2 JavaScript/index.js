@@ -2,6 +2,8 @@
 *  @author Christopher Land Cordero Aguilar
 */
 
+//Esta función es para el ejercicio 1 de javascript
+
 function multiplicacion1(){
 
   var a = [2,3,4,6];
@@ -34,6 +36,8 @@ function multiplicacion1(){
   
 }//Fin del metodo multiplicacion
 
+//Esta función es para el ejercicio 1 de javascript
+
 function multiplicacion2(){
 
   var a = [123,67,890,4];
@@ -63,6 +67,8 @@ function multiplicacion2(){
   
 }//Fin del metodo multiplicacion
 
+//Esta función es para el ejercicio 1 de javascript
+
 function multiplicacion3(){
 
   var a = [2,3,7,9,4,5,6,9,12];
@@ -91,7 +97,9 @@ function multiplicacion3(){
   }//Fin del primer for
   
 }//Fin del metodo multiplicacion
-    
+
+//Esta función es para el ejercicio 2 de javascript
+
     function factorial(number){
         var resultado = 1;
         
